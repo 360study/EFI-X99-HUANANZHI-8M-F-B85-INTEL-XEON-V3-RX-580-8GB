@@ -1,14 +1,18 @@
-# Huananzhi (H81 Chipset) + Intel Xeon E5-26XX v3 + RX 580 8Gb
+# 华南子Huananzhi X99 + Intel Xeon E5-26XX v4 + RX 590 8Gb
+
+参考:[https://github.com/8Ten10/HUANANZHI-X99-8M-F-Hackintosh/tree/main]()
+
+- **2023.06.20安装成功**
 
 **Latest working macOS**: 13.0.1
 <br>
 **Current OpenCore**: 0.8.7
 
 ## Complete hardware specs
-- Intel Xeon E5-26XX v3 (HEDT Haswell)
-- Huananzhi (H81 Chipset)
-- AMD RX 580 8 Gb (Polaris)
-- Áudio Codec: Realtek ALC662
+- Intel Xeon E5-26XX v4 (HEDT Haswell)
+- Huananzhi (X99-8M-F)
+- AMD RX 590 8 Gb (Polaris)
+- Áudio Codec: Realtek ALC662(alcid=18)
 - Ethernet: Realtek 8111H Gigabit
 
 ## What works
