@@ -3,10 +3,11 @@
 参考:[https://github.com/8Ten10/HUANANZHI-X99-8M-F-Hackintosh/tree/main]()
 
 - **2023.06.20安装成功**
+  
 
 **Latest working macOS**: 13.0.1
 <br>
-**Current OpenCore**: 0.8.7
+**Current OpenCore**: 0.9.3
 
 ## Complete hardware specs
 - Intel Xeon E5-26XX v4 (HEDT Haswell)
@@ -28,6 +29,7 @@
 
 ## What doesn't work
 - Correct USB Mapping :(
+- 蓝牙bluetooth :(
 
 ## Kexts used:
 - AppleALC.kext
